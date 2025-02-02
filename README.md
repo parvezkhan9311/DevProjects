@@ -1,4 +1,4 @@
-Student Management System is a Spring Boot project designed to perform complete CRUD operations (Create, Read, Update, and Delete) for managing resources on a server. 
+Student Management project is designed to perform complete CRUD operations (Create, Read, Update, and Delete) for managing resources on a server. 
 The application is designed with a modular architecture, allowing easy extension and scalability. While the backend is complete, the project has immense potential for
 further enhancements, such as integrating a modern UI for a complete user experience.
 
